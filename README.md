@@ -1,7 +1,7 @@
-###FGNetwork
+###[FGNetwork](https://github.com/Insfgg99x/FGNetwork)
 ..............................................................
 ##Introduction
- A light networking  kit for iOS,
+ A light networking kit for iOS with GET ,POST,file upload and multi files uploading supported.
 ##Installtion
 Manual:
 
